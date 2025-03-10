@@ -17,11 +17,11 @@ CV available upon request.
 Research
 ======
 **[Sharpness-Aware Minimization: General Analysis and Improved Rates](https://arxiv.org/abs/2503.02225)**\
-In the 13th International Conference on Learning Representations (ICLR 2025), [Code](https://github.com/dimitris-oik/unifiedsam)
+In the 13th International Conference on Learning Representations (ICLR 2025), [Code](https://github.com/dimitris-oik/unifiedsam)\
 *Dimitris Oikonomou, Nicolas Loizou*
 
 **[Stochastic Polyak Step-sizes and Momentum: Convergence Guarantees and Practical Performance](https://arxiv.org/abs/2406.04142)**\
-In the 13th International Conference on Learning Representations (ICLR 2025), [Code](https://github.com/dimitris-oik/MomSPS)
+In the 13th International Conference on Learning Representations (ICLR 2025), [Code](https://github.com/dimitris-oik/MomSPS)\
 *Dimitris Oikonomou, Nicolas Loizou*
 
 
