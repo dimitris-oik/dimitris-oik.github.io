@@ -16,13 +16,17 @@ CV available upon request.
 
 Research
 ======
+**[Stochastic Polyak Step-sizes and Momentum: Convergence Guarantees and Practical Performance](https://arxiv.org/abs/2406.04142)**\
+In the 13th International Conference on Learning Representations (ICLR 2025), [Code](https://github.com/dimitris-oik/MomSPS)\
+*Dimitris Oikonomou, Nicolas Loizou*
+
 **[Sharpness-Aware Minimization: General Analysis and Improved Rates](https://arxiv.org/abs/2503.02225)**\
 In the 13th International Conference on Learning Representations (ICLR 2025), [Code](https://github.com/dimitris-oik/unifiedsam)\
 *Dimitris Oikonomou, Nicolas Loizou*
 
-**[Stochastic Polyak Step-sizes and Momentum: Convergence Guarantees and Practical Performance](https://arxiv.org/abs/2406.04142)**\
-In the 13th International Conference on Learning Representations (ICLR 2025), [Code](https://github.com/dimitris-oik/MomSPS)\
-*Dimitris Oikonomou, Nicolas Loizou*
+**[Analysis of an idealized stochastic polyak method and its application to black-box model distillation](https://arxiv.org/abs/2504.01898)**\
+In arXiv:2504.01898, 2025\
+*Robert Gower, Guillaume Garrigos, Nicolas Loizou, Dimitris Oikonomou, Konstantin Mishchenko, Fabian Schaipp*
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
