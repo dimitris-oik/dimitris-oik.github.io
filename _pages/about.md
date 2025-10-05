@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me" # "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dimitris Oikonomou" # "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Dimitri and I am a 3rd year PhD student in [Computer Science](https://www.cs.jhu.edu/) at [JHU](https://www.jhu.edu/), working with Professor [Nicolas Loizou](https://nicolasloizou.github.io/). I am broadly interested in the fields of Optimization and Machine Learning. 
+Hello! I’m Dimitri, a third-year PhD student in [Computer Science](https://www.cs.jhu.edu/) 
+at Johns Hopkins University ([JHU](https://www.jhu.edu/)), advised by Prof. [Nicolas Loizou](https://nicolasloizou.github.io/). 
 
-Prior to joining JHU, I graduated with a BSc in [Mathematics](https://en.math.uoa.gr/) from the National and Kapodistrian University of Athens ([NKUA](https://en.uoa.gr/)) and a MSc in [Data Science and Machine Learning](https://dsml.ece.ntua.gr/) from National Technical University of Athens ([NTUA](https://www.ntua.gr/en/)). Moreover, I have a MSc in [Mathematics](https://www.uni-goettingen.de/en/faculty+of+mathematics+and+computer+science/20491.html) from [G&ouml;ttingen University](https://www.uni-goettingen.de/en/1.html). 
+I’m broadly interested in large-scale optimization and machine learning. My current 
+research focuses on adaptive methods for minimization problems, with applications 
+in deep learning and large language models. 
+
+Before JHU, I earned a BSc in [Mathematics](https://en.math.uoa.gr/) from the 
+National and Kapodistrian University of Athens ([NKUA](https://en.uoa.gr/)), an 
+MSc in [Data Science and Machine Learning](https://dsml.ece.ntua.gr/) from the 
+National Technical University of Athens ([NTUA](https://www.ntua.gr/en/)), and an 
+MSc in [Mathematics](https://www.uni-goettingen.de/en/faculty+of+mathematics+and+computer+science/20491.html) 
+from [G&ouml;ttingen University](https://www.uni-goettingen.de/en/1.html). 
 
 CV available upon request. 
 
@@ -32,6 +42,9 @@ In arXiv:2504.01898, 2025\
 Under Submission\
 ***Dimitris Oikonomou***, *Nicolas Loizou*
 
+
+
+Last Update: October 5, 2025
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
