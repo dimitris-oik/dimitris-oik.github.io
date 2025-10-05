@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Dimitri and I am a 2nd year PhD student in [Computer Science](https://www.cs.jhu.edu/) at [JHU](https://www.jhu.edu/), working with Professor [Nicolas Loizou](https://nicolasloizou.github.io/). I am broadly interested in the fields of Optimization and Machine Learning. 
+Hello! My name is Dimitri and I am a 3rd year PhD student in [Computer Science](https://www.cs.jhu.edu/) at [JHU](https://www.jhu.edu/), working with Professor [Nicolas Loizou](https://nicolasloizou.github.io/). I am broadly interested in the fields of Optimization and Machine Learning. 
 
-Prior to joining JHU, I graduated with a BSc in [Mathematics](https://en.math.uoa.gr/) from the National and Kapodistrian University of Athens ([NKUA](https://en.uoa.gr/)) and a MSc in [Data Science and Machine Learning](https://dsml.ece.ntua.gr/) from National Technical University of Athens ([NTUA](https://www.ntua.gr/en/)). Moreover I have a MSc in Mathematics from Germany. 
+Prior to joining JHU, I graduated with a BSc in [Mathematics](https://en.math.uoa.gr/) from the National and Kapodistrian University of Athens ([NKUA](https://en.uoa.gr/)) and a MSc in [Data Science and Machine Learning](https://dsml.ece.ntua.gr/) from National Technical University of Athens ([NTUA](https://www.ntua.gr/en/)). Moreover, I have a MSc in [Mathematics](https://www.uni-goettingen.de/en/faculty+of+mathematics+and+computer+science/20491.html) from [G&ouml;ttingen University](https://www.uni-goettingen.de/en/1.html). 
 
 CV available upon request. 
 
@@ -18,16 +18,19 @@ Research
 ======
 **[Stochastic Polyak Step-sizes and Momentum: Convergence Guarantees and Practical Performance](https://arxiv.org/abs/2406.04142)**\
 In the 13th International Conference on Learning Representations (ICLR 2025), [Code](https://github.com/dimitris-oik/MomSPS)\
-*Dimitris Oikonomou, Nicolas Loizou*
+***Dimitris Oikonomou***, *Nicolas Loizou*
 
 **[Sharpness-Aware Minimization: General Analysis and Improved Rates](https://arxiv.org/abs/2503.02225)**\
 In the 13th International Conference on Learning Representations (ICLR 2025), [Code](https://github.com/dimitris-oik/unifiedsam)\
-*Dimitris Oikonomou, Nicolas Loizou*
+***Dimitris Oikonomou***, *Nicolas Loizou*
 
 **[Analysis of an idealized stochastic polyak method and its application to black-box model distillation](https://arxiv.org/abs/2504.01898)**\
 In arXiv:2504.01898, 2025\
-*Robert Gower, Guillaume Garrigos, Nicolas Loizou, Dimitris Oikonomou, Konstantin Mishchenko, Fabian Schaipp*
+*Robert Gower*, *Guillaume Garrigos*, *Nicolas Loizou*, ***Dimitris Oikonomou***, *Konstantin Mishchenko*, *Fabian Schaipp*
 
+**Sharpness-Aware Minimization: General Analysis and Improved Rates**\
+Under Submission\
+***Dimitris Oikonomou***, *Nicolas Loizou*
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
