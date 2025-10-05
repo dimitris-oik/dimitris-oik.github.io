@@ -28,7 +28,7 @@ In the 13th International Conference on Learning Representations (ICLR 2025), [C
 In arXiv:2504.01898, 2025\
 *Robert Gower*, *Guillaume Garrigos*, *Nicolas Loizou*, ***Dimitris Oikonomou***, *Konstantin Mishchenko*, *Fabian Schaipp*
 
-**Sharpness-Aware Minimization: General Analysis and Improved Rates**\
+**[Safeguarded Stochastic Polyak Step-Sizes for Non-smooth Optimization: Robust Performance Without Small (Sub)Gradients](https://dimitris-oik.github.io/)**\
 Under Submission\
 ***Dimitris Oikonomou***, *Nicolas Loizou*
 
