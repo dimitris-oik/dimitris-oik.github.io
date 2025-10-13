@@ -21,28 +21,51 @@ National Technical University of Athens ([NTUA](https://www.ntua.gr/en/)), and a
 MSc in [Mathematics](https://www.uni-goettingen.de/en/faculty+of+mathematics+and+computer+science/20491.html) 
 from [G&ouml;ttingen University](https://www.uni-goettingen.de/en/1.html). 
 
-CV available upon request. 
+[CV](https://dimitris-oik.github.io/files/CV.pdf)
 
 Research
 ======
-**[Stochastic Polyak Step-sizes and Momentum: Convergence Guarantees and Practical Performance](https://arxiv.org/abs/2406.04142)**\
-In the 13th International Conference on Learning Representations (ICLR 2025), [Code](https://github.com/dimitris-oik/MomSPS)\
-***Dimitris Oikonomou***, *Nicolas Loizou*
-
-**[Sharpness-Aware Minimization: General Analysis and Improved Rates](https://arxiv.org/abs/2503.02225)**\
-In the 13th International Conference on Learning Representations (ICLR 2025), [Code](https://github.com/dimitris-oik/unifiedsam)\
+**[Safeguarded Stochastic Polyak Step-Sizes for Non-smooth Optimization: Robust Performance Without Small (Sub)Gradients](https://dimitris-oik.github.io/)**\
+Under Submission\
 ***Dimitris Oikonomou***, *Nicolas Loizou*
 
 **[Analysis of an idealized stochastic polyak method and its application to black-box model distillation](https://arxiv.org/abs/2504.01898)**\
 In arXiv:2504.01898, 2025\
 *Robert Gower*, *Guillaume Garrigos*, *Nicolas Loizou*, ***Dimitris Oikonomou***, *Konstantin Mishchenko*, *Fabian Schaipp*
 
-**[Safeguarded Stochastic Polyak Step-Sizes for Non-smooth Optimization: Robust Performance Without Small (Sub)Gradients](https://dimitris-oik.github.io/)**\
-Under Submission\
+**[Sharpness-Aware Minimization: General Analysis and Improved Rates](https://arxiv.org/abs/2503.02225)**\
+In the 13th International Conference on Learning Representations (ICLR 2025), [Code](https://github.com/dimitris-oik/unifiedsam)\
 ***Dimitris Oikonomou***, *Nicolas Loizou*
 
+**[Stochastic Polyak Step-sizes and Momentum: Convergence Guarantees and Practical Performance](https://arxiv.org/abs/2406.04142)**\
+In the 13th International Conference on Learning Representations (ICLR 2025), [Code](https://github.com/dimitris-oik/MomSPS)\
+***Dimitris Oikonomou***, *Nicolas Loizou*
+
+Selected Honors &amp; Awards 
+======
+### Mathematical Olympiads
+* International Mathematical Olympiad (**IMO**): *Bronze Medal* \hfill Santa Marta, Colombia, 2013
+* Greek Mathematical Olympiad: *Silver Medal* \hfill Athens, Greece, 2014
+* Greek Mathematical Olympiad: *Bronze Medal* \hfill Athens, Greece, 2013
+
+### Scholarship
+* Hellenic Post Scholarship \hfill 2015-2019
+* [DAAD Scholarship](https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/) \hfill 2019-2020
+* [JHU MINDS Fellowship](https://www.minds.jhu.edu/awards/minds-data-science-fellowships/) \hfill 2024, 2025
+
+Invited Talks &amp; Posters 
+======
+* International Conference on Machine Learning (ICML 2025), Singapore (2x Poster)
+* SIAM Conference on Optimization 2026, Edinburgh, UK
+
+Services
+======
+* Teaching Assistant: Computer Vision \hfill JHU, Fall 2024
+* Reviewer: IEEE Transactions on Signal Processing, ICML, NeurIPS, ICLR
+
+
 <br>
-<h6>Last Update: October 5, 2025</h6>
+<h6>Last Update: October 13, 2025</h6>
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
