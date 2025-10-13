@@ -21,7 +21,7 @@ National Technical University of Athens ([NTUA](https://www.ntua.gr/en/)), and a
 MSc in [Mathematics](https://www.uni-goettingen.de/en/faculty+of+mathematics+and+computer+science/20491.html) 
 from [G&ouml;ttingen University](https://www.uni-goettingen.de/en/1.html). 
 
-[CV](https://dimitris-oik.github.io/files/CV.pdf)
+[CV](https://dimitris-oik.github.io/files/CV.pdf) / [Email](mailto:doikono1@jh.edu)
 
 Research
 ======
@@ -44,23 +44,23 @@ In the 13th International Conference on Learning Representations (ICLR 2025), [C
 Selected Honors &amp; Awards 
 ======
 ### Mathematical Olympiads
-* International Mathematical Olympiad (**IMO**): *Bronze Medal* \hfill Santa Marta, Colombia, 2013
-* Greek Mathematical Olympiad: *Silver Medal* \hfill Athens, Greece, 2014
-* Greek Mathematical Olympiad: *Bronze Medal* \hfill Athens, Greece, 2013
+* International Mathematical Olympiad (**IMO**): *Bronze Medal* @ Santa Marta, Colombia, 2013
+* Greek Mathematical Olympiad: *Silver Medal* @ Athens, Greece, 2014
+* Greek Mathematical Olympiad: *Bronze Medal* @ Athens, Greece, 2013
 
-### Scholarship
-* Hellenic Post Scholarship \hfill 2015-2019
-* [DAAD Scholarship](https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/) \hfill 2019-2020
-* [JHU MINDS Fellowship](https://www.minds.jhu.edu/awards/minds-data-science-fellowships/) \hfill 2024, 2025
+### Scholarships
+* Hellenic Post Scholarship: 2015-2019
+* [DAAD Scholarship](https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/): 2019-2020
+* [JHU MINDS Fellowship](https://www.minds.jhu.edu/awards/minds-data-science-fellowships/): 2024, 2025
 
 Invited Talks &amp; Posters 
 ======
 * International Conference on Machine Learning (ICML 2025), Singapore (2x Poster)
 * SIAM Conference on Optimization 2026, Edinburgh, UK
 
-Services
+Teaching &amp; Professional Service
 ======
-* Teaching Assistant: Computer Vision \hfill JHU, Fall 2024
+* Teaching Assistant: Computer Vision @ JHU, Fall 2024
 * Reviewer: IEEE Transactions on Signal Processing, ICML, NeurIPS, ICLR
 
 
