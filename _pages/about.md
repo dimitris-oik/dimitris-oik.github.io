@@ -60,7 +60,7 @@ Invited Talks &amp; Posters
 
 Teaching &amp; Professional Service
 ======
-* Teaching Assistant: Computer Vision @ JHU, Fall 2024
+* Teaching Assistant: *Computer Vision* @ JHU, Fall 2024
 * Reviewer: IEEE Transactions on Signal Processing, ICML, NeurIPS, ICLR
 
 
