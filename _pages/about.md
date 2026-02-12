@@ -15,9 +15,9 @@ research focuses on adaptive methods for minimization problems, with application
 in deep learning and large language models. 
 
 Before JHU, I earned a BSc in [Mathematics](https://en.math.uoa.gr/) from the 
-National and Kapodistrian University of Athens ([NKUA](https://en.uoa.gr/)), an 
+National and Kapodistrian University of Athens ([NKUA](https://en.uoa.gr/)), a 
 MSc in [Data Science and Machine Learning](https://dsml.ece.ntua.gr/) from the 
-National Technical University of Athens ([NTUA](https://www.ntua.gr/en/)), and an 
+National Technical University of Athens ([NTUA](https://www.ntua.gr/en/)), and a 
 MSc in [Mathematics](https://www.uni-goettingen.de/en/faculty+of+mathematics+and+computer+science/20491.html) 
 from [G&ouml;ttingen University](https://www.uni-goettingen.de/en/1.html). 
 
@@ -25,8 +25,12 @@ from [G&ouml;ttingen University](https://www.uni-goettingen.de/en/1.html).
 
 Research
 ======
-**[Safeguarded Stochastic Polyak Step-Sizes for Non-smooth Optimization: Robust Performance Without Small (Sub)Gradients](https://dimitris-oik.github.io/)**\
+**[Adaptive Sharpness-Aware Minimization with a Polyak-type Step Size: A Theory-Grounded Scheduler](https://dimitris-oik.github.io/)**\
 Under Submission\
+***Dimitris Oikonomou***, *Nicolas Loizou*
+
+**[Safeguarded Stochastic Polyak Step-Sizes for Non-smooth Optimization: Robust Performance Without Small (Sub)Gradients](https://arxiv.org/abs/2512.02342)**\
+In arXiv:2512.02342, 2025\
 ***Dimitris Oikonomou***, *Nicolas Loizou*
 
 **[Analysis of an idealized stochastic polyak method and its application to black-box model distillation](https://arxiv.org/abs/2504.01898)**\
@@ -34,11 +38,11 @@ In arXiv:2504.01898, 2025\
 *Robert Gower*, *Guillaume Garrigos*, *Nicolas Loizou*, ***Dimitris Oikonomou***, *Konstantin Mishchenko*, *Fabian Schaipp*
 
 **[Sharpness-Aware Minimization: General Analysis and Improved Rates](https://arxiv.org/abs/2503.02225)**\
-In the 13th International Conference on Learning Representations (ICLR 2025), [Code](https://github.com/dimitris-oik/unifiedsam)\
+In the 13th International Conference on Learning Representations (**ICLR 2025**), [Code](https://github.com/dimitris-oik/unifiedsam)\
 ***Dimitris Oikonomou***, *Nicolas Loizou*
 
 **[Stochastic Polyak Step-sizes and Momentum: Convergence Guarantees and Practical Performance](https://arxiv.org/abs/2406.04142)**\
-In the 13th International Conference on Learning Representations (ICLR 2025), [Code](https://github.com/dimitris-oik/MomSPS)\
+In the 13th International Conference on Learning Representations (**ICLR 2025**), [Code](https://github.com/dimitris-oik/MomSPS)\
 ***Dimitris Oikonomou***, *Nicolas Loizou*
 
 Selected Honors &amp; Awards 
@@ -55,7 +59,7 @@ Selected Honors &amp; Awards
 
 Invited Talks &amp; Posters 
 ======
-* International Conference on Machine Learning (ICML 2025), Singapore (2x Poster)
+* International Conference on Learning Representations (ICLR 2025), Singapore (2x Poster)
 * SIAM Conference on Optimization 2026, Edinburgh, UK
 
 Teaching &amp; Professional Service
@@ -65,7 +69,7 @@ Teaching &amp; Professional Service
 
 
 <br>
-<h6>Last Update: October 13, 2025</h6>
+<h6>Last Update: February 12, 2026</h6>
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
