@@ -25,16 +25,20 @@ from [G&ouml;ttingen University](https://www.uni-goettingen.de/en/1.html).
 
 Research
 ======
-**[Adaptive Sharpness-Aware Minimization with a Polyak-type Step Size: A Theory-Grounded Scheduler](https://dimitris-oik.github.io/)**\
+**[Taking the Road Less Scheduled with Adaptive Polyak Steps](https://arxiv.org/abs/2511.07767)**\
 Under Submission\
+***Dimitris Oikonomou***, *Matthew Buchholz*, *Yuen-Man Pun*, *Robert Gower*, *Nicolas Loizou*
+
+**[Adaptive Sharpness-Aware Minimization with a Polyak-type Step Size: A Theory-Grounded Scheduler](https://dimitris-oik.github.io/)**\
+In the 43rd International Conference on Machine Learning (**ICML 2026**), [Code](https://github.com/dimitris-oik/sam_sps)\
 ***Dimitris Oikonomou***, *Nicolas Loizou*
 
 **[Safeguarded Stochastic Polyak Step-Sizes for Non-smooth Optimization: Robust Performance Without Small (Sub)Gradients](https://arxiv.org/abs/2512.02342)**\
-In arXiv:2512.02342, 2025\
+In the 43rd International Conference on Machine Learning (**ICML 2026**), [Code](https://github.com/dimitris-oik/sps_safe)\
 ***Dimitris Oikonomou***, *Nicolas Loizou*
 
 **[Analysis of an idealized stochastic polyak method and its application to black-box model distillation](https://arxiv.org/abs/2504.01898)**\
-In arXiv:2504.01898, 2025\
+Under Submission\
 *Robert Gower*, *Guillaume Garrigos*, *Nicolas Loizou*, ***Dimitris Oikonomou***, *Konstantin Mishchenko*, *Fabian Schaipp*
 
 **[Sharpness-Aware Minimization: General Analysis and Improved Rates](https://arxiv.org/abs/2503.02225)**\
