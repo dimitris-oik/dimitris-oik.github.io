@@ -25,8 +25,12 @@ from [G&ouml;ttingen University](https://www.uni-goettingen.de/en/1.html).
 
 Research
 ======
-**[Taking the Road Less Scheduled with Adaptive Polyak Steps](https://arxiv.org/abs/2511.07767)**\
+**Curvature-Scaled Sharpness-Aware Minimization: Convergence Beyond Smoothness**\
 Under Submission\
+***Dimitris Oikonomou***, *Nicolas Loizou*
+
+**[Taking the Road Less Scheduled with Adaptive Polyak Steps](https://arxiv.org/abs/2511.07767)**\
+In the 40th Annual Conference on Neural Information Processing Systems (**NeurIPS 2026**)\
 ***Dimitris Oikonomou***, *Matthew Buchholz*, *Yuen-Man Pun*, *Robert Gower*, *Nicolas Loizou*
 
 **[Adaptive Sharpness-Aware Minimization with a Polyak-type Step Size: A Theory-Grounded Scheduler](https://dimitris-oik.github.io/)**\
@@ -38,7 +42,7 @@ In the 43rd International Conference on Machine Learning (**ICML 2026**), [Code]
 ***Dimitris Oikonomou***, *Nicolas Loizou*
 
 **[Analysis of an idealized stochastic polyak method and its application to black-box model distillation](https://arxiv.org/abs/2504.01898)**\
-Under Submission\
+In Transactions on Machine Learning Research, 2026 (**TMLR**)\
 *Robert Gower*, *Guillaume Garrigos*, *Nicolas Loizou*, ***Dimitris Oikonomou***, *Konstantin Mishchenko*, *Fabian Schaipp*
 
 **[Sharpness-Aware Minimization: General Analysis and Improved Rates](https://arxiv.org/abs/2503.02225)**\
@@ -69,11 +73,11 @@ Invited Talks &amp; Posters
 Teaching &amp; Professional Service
 ======
 * Teaching Assistant: *Computer Vision* @ JHU, Fall 2024
-* Reviewer: IEEE Transactions on Signal Processing, ICML, NeurIPS, ICLR
+* Reviewer: IEEE Transactions on Signal Processing, TMLR, ICML, NeurIPS, ICLR, AISTATS
 
 
 <br>
-<h6>Last Update: June 2, 2026</h6>
+<h6>Last Update: September 25, 2026</h6>
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
