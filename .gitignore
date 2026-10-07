@@ -10,3 +10,12 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# CV: keep only the compiled PDF in the repo, not the LaTeX source or build artifacts
+files/CV.tex
+files/*.aux
+files/*.log
+files/*.out
+files/*.fls
+files/*.fdb_latexmk
+files/*.synctex.gz

@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Dimitris Oikonomou"
 title_separator          : "-"
 name                     : &name "Dimitris Oikonomou"
-description              : &description "personal description"
+description              : &description "Personal website of Dimitris Oikonomou, PhD student in Computer Science at Johns Hopkins University working on optimization for machine learning."
 url                      : https://dimitris-oik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dimitris-oik/dimitris-oik.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "me.jpg"
   name             : "Dimitris Oikonomou"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : "PhD student in Computer Science at JHU"
   location         : "Baltimore"
   employer         : "Johns Hopkins University"
   uri              : # URL
-  email            : # email
+  email            : "doikono1@jh.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "dimitris-oikonomou-gr"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -171,6 +171,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - files/CV.tex
 keep_files:
   - .git
   - .svn
